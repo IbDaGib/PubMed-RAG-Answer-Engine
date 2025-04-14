@@ -1,12 +1,14 @@
 # .gitignore
 # Python
 venv/
+.venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.db
 *.sqlite3
+chroma_db/
 
 # Environment variables
 .env
